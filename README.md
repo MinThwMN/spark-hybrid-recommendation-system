@@ -15,8 +15,13 @@ The project also incorporates Big Data optimization techniques such as Parquet s
 * Evaluate recommendation quality using RMSE.
 
 ## Dataset
+The dataset is too large to be stored in this repository.
 
-Amazon Review Dataset – Arts, Crafts and Sewing category.
+Source:
+https://nijianmo.github.io/amazon/index.html
+
+Dataset used:
+Arts, Crafts and Sewing Reviews
 
 Dataset characteristics:
 
