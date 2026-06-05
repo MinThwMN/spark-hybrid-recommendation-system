@@ -1,0 +1,10 @@
+Nội dung đánh giá,Kết quả
+Thời gian đọc JSON,3.457 giây
+Thời gian đọc Parquet,0.756 giây
+Dung lượng JSON.GZ,51.60 MB
+Dung lượng Parquet,2.42 MB
+Thời gian train ALS không cache,46.591 giây
+Thời gian train ALS có cache,35.685 giây
+RMSE ALS,1.0517
+RMSE Hybrid,0.8912
+Best alpha Hybrid,0.5
